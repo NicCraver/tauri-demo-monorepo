@@ -1,0 +1,7 @@
+node_modules
+
+# rsw
+.rsw/
+target/
+Cargo.lock
+.woap
